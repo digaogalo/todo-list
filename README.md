@@ -4,4 +4,6 @@ In this project I use `React hooks`, so `useEffect`, `useState`, and `useRef`. Y
 
 I use `npm react-icons` to apply icons in this aplication.
 
+![Captura de Tela (10)](https://user-images.githubusercontent.com/101463566/215348514-feab3708-d0cd-4195-a932-32a088030537.png)
+
 
